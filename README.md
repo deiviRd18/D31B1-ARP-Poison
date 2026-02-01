@@ -17,3 +17,14 @@ Este script permite realizar ataques de *Man-in-the-Middle* (MitM) interceptando
    ```bash
    git clone [https://github.com/deiviRd18/D31B1-ARP-Poison.git](https://github.com/deiviRd18/D31B1-ARP-Poison.git)
    cd D31B1-ARP-Poison# D31B1-ARP-Poison
+
+Instalar dependencias:
+
+Bash
+``pip3 install scapy``
+
+🚀 Uso (Usage)
+Se requieren privilegios de root (sudo).
+
+Bash
+``sudo python3 d31b1_arpoof.py``
