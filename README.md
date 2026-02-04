@@ -4,6 +4,14 @@
 
 Este script permite realizar ataques de *Man-in-the-Middle* (MitM) interceptando la comunicación entre una víctima y la puerta de enlace (Gateway/Router) mediante la manipulación de las tablas ARP.
 
+Demostracion:
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=LesRYVsUP0I">
+    <img src="https://img.youtube.com/vi/LesRYVsUP0I/maxresdefault.jpg" width="300" alt="Demostración de ARP Spoofing">
+  </a>
+</p>
+
 > **⚠️ Disclaimer:** Herramienta creada con fines estrictamente educativos para la asignatura de Seguridad Informática. El autor no se hace responsable del mal uso.
 
 ## 📋 Características
